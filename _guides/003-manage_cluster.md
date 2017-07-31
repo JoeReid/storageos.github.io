@@ -29,6 +29,14 @@ sections:
     description: Create and manage namespaces
     module: manage/namespaces
   -
+    title: Users
+    description: Create and manage users
+    module: manage/users
+  -
+    title: Policies
+    description: Create and manage policies
+    module: manage/policies
+  -
     title: Pools
     description: Create and manage pools
     module: manage/pools
